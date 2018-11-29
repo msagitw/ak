@@ -11,30 +11,38 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Natrual Language Processing",
+    "Blockchain Techology Applications",
+    "Digital Healthcare Technologies",
+    "High Impact Experimental Technologies"
+
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Blockhain Consulting"
+  institution = "IBM, Watson Health, Ireland"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Clinical Research & Pharmacovigilance"
+  institution = "INDIA"
+  year = 2011
+
+[[education.courses]]
+  course = "BSc(Honors) in Biomedical Science (Clinical & Pharma) Research"
+  institution = "Malaysia"
   year = 2008
+
+[[education.courses]]
+  course = "Diploma in Management Information Systems"
+  institution = "Oman"
+  year = 1998
+
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ex startup founder from the digital healthcare technologies background, who has successfully been responsible for the design and development of large scale high impact government solutions employing cutting edge technologies resulting in policy changes. These solutions have been for the American Government (Medicare / Medicaid), Ministry of Health - Government of Dubai, United Arab Emirates, Ministry of Health - Doha, QATAR & Ministry of Science and Technology - Kuala Lumpur, Malaysia. 
