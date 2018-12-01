@@ -106,17 +106,17 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Seeking Challenges"
+  description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "portrait.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "raz0rize"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "portrait.jpg"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -255,15 +255,21 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:frazindy@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fab"
-  #  link = "https://twitter.com/"
-
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/raz101zor"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/raz0rize"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/raz888/"
+  
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
