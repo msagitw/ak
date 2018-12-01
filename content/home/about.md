@@ -16,7 +16,7 @@ weight = 5
     "Digital Healthcare Technologies",
     "High Impact Experimental Technologies",
     "Clinical & Pharmaceutical Research",
-    "Vizualations (3D/Molecular/Data)",
+    "Viz (3D/Molecular/Data)",
     "Information Security",
     
   ]
