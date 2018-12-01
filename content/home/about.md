@@ -14,30 +14,33 @@ weight = 5
     "Natural Language Processing",
     "Blockchain Techology Applications",
     "Digital Healthcare Technologies",
-    "High Impact Experimental Technologies"
-
+    "High Impact Experimental Technologies",
+    "Clinical & Pharmaceutical Research",
+    "Vizualations (3D/Molecular/Data)",
+    "Information Security",
+    
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
   course = "Blockhain Consulting"
-  institution = "IBM, Watson Health, Ireland"
+  #institution = "IBM, Watson Health, Ireland"
   year = 2018
 
 [[education.courses]]
   course = "MSc in Clinical Research & Pharmacovigilance"
-  institution = "INDIA"
+  #institution = "INDIA"
   year = 2011
 
 [[education.courses]]
   course = "BSc(Honors) in Biomedical Science (Clinical & Pharma) Research"
-  institution = "Malaysia"
+  #institution = "Malaysia"
   year = 2008
 
 [[education.courses]]
   course = "Diploma in Management Information Systems"
-  institution = "Oman"
+  #institution = "Oman"
   year = 1998
 
  
