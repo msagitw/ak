@@ -24,7 +24,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "Blockhain Consulting"
+  course = "BlockChain Consulting"
   #institution = "IBM, Watson Health, Ireland"
   year = 2018
 

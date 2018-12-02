@@ -48,15 +48,16 @@ date_format = "January 2006"
   company = "IBM Watson Health, Dublin, Ireland"
   company_url = ""
   location = "Dublin, Ireland"
-  date_start = "2017-12-01"
+  date_start = "2017-04-01"
   date_end = "2018-11-01"
-  description = """ **Policy Insights** - SaaS based data analytics platform employing Natural Language Processing and Artificial 
+  description = """ [**Policy Insights**](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=57017957USEN) - SaaS based data analytics platform employing Natural Language Processing and Artificial 
                 intelligence via the Watson ML/AI Platform. This project was for Medicare/Medicaid (U.S Government). 
                 Diverse and cross-geographic team. Management of the entire SDLC, the team included members of government staff 
                 developers and multiple organizations. Teams were based in the United States, Ireland & India. 
 
 Responsibilties:
 
+  * R&D
   * Requirements Engineering
   * Process Mapping / Optomization / Engineering
   * Stakeholder Communication & Management
@@ -64,7 +65,19 @@ Responsibilties:
   * Algorithm Development & Architecture Modelling
   """
 
+[[experience]]
+  title = "Business Analyst / Subject Matter Expert (Clinical Research Methodology) [Government of Qatar & U.A.E] "
+  company = "Government Consulting Technology Services Firm"
+  company_url = ""
+  location = "Qatar & United Arab Emirates"
+  date_start = "2015-01-01"
+  date_end = "2016-12-31"
+  description = """ [**ABHATH**](https://www.hamad.qa/EN/Education-and-research/Medical_Research/Submit-Your-Research/Pages/ABHATH-Online-Submission.aspx) - Clinical Research and Management System - SaaS based online clinical research management tool. 
+                   Bespoke Custom Solution for the Medical Research Center which is the research arm of the Supreme Council of Health
+                   Government of Qatar. 
 
+  **SmartHASD** - Online health insurance analytics platform. Bespoke Custom Solution for the
+"""
 
 
 +++
