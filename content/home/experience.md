@@ -42,4 +42,26 @@ date_format = "January 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+
+[[experience]]
+  title = "Business Analyst / Product Owner (Agile Methdologies)"
+  company = "IBM Watson Health, Dublin, Ireland"
+  company_url = ""
+  location = "Dublin, Ireland"
+  date_start = "2017-12-01"
+  date_end = "2018-11-01"
+  description = """ **Policy Insights** - Saas based data analytics platform employing Natural Language Processing and Artificial 
+                intelligence via the Watson ML/AI Platform. This project was for Medicare/Medicaid (U.S Government). Responsibilties
+                include: 
+
+  * Requirements Engineering
+  * Process Mapping / Optomization / Engineering
+  * Stakeholder Communication & Management
+  * Writting User Stories / Product Roadmaps / Acceptance Criteria
+  * Algorithm Developmebt & Architecure Modelling
+  """
+
+
+
+
 +++
