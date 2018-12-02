@@ -52,7 +52,7 @@ Responsibilties:
                    Bespoke Custom Solution for the Medical Research Center which is the research arm of the Supreme Council of Health
                    Government of Qatar. 
 
-  [**SmartHASD**](https://www.hamad.qa/EN/Education-and-research/Medical_Research/Submit-Your-Research/Pages/ABHATH-Online-Submission.aspx) - Online health insurance analytics platform. Bespoke Custom Solution for the Dubai Health Authority, Government of Dubai
+  [**SmartHASD**](https://www.dha.gov.ae/en/DHANews/pages/dhanews1619533207-20-03-2016.aspx) - Online health insurance analytics platform. Bespoke Custom Solution for the Dubai Health Authority, Government of Dubai
 
 Both the projects were cross geographic with involvement of private and public insitutions, involving large cross geographic teams.
 
