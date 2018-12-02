@@ -24,12 +24,12 @@ weight = 7
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Research"
+  name = "R&D"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics" 
+  name = "DataScience" 
 
 [[feature]]
   icon = "dev"
@@ -50,5 +50,20 @@ weight = 7
   icon = "trophy"
   icon_pack = "fas"
   name = "Product"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "AI/ML/NLP"
+
+[[feature]]
+  icon = "dice-d20"
+  icon_pack = "fas"
+  name = "BlockChain"
+
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "ClinicalResearch"
 
 +++

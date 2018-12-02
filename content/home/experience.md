@@ -18,30 +18,6 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 
 [[experience]]
   title = "Business Analyst / Product Owner (Agile) [U.S. Government] 🇺🇸"
@@ -76,7 +52,22 @@ Responsibilties:
                    Bespoke Custom Solution for the Medical Research Center which is the research arm of the Supreme Council of Health
                    Government of Qatar. 
 
-  **SmartHASD** - Online health insurance analytics platform. Bespoke Custom Solution for the
+  [**SmartHASD**](https://www.hamad.qa/EN/Education-and-research/Medical_Research/Submit-Your-Research/Pages/ABHATH-Online-Submission.aspx) - Online health insurance analytics platform. Bespoke Custom Solution for the Dubai Health Authority, Government of Dubai
+
+Both the projects were cross geographic with involvement of private and public insitutions, involving large cross geographic teams.
+
+Responsibilities :
+
+ * R&D
+ * Project Managment 
+ * Subject Matter Expert (Clinical Research Methodology)
+ * Requirements Engineering
+ * Process Optimization / Mapping / Consulting
+ * Team Management / Lead 
+ * Documentation - BRD, FSD, SRS
+ * Project Kickoff / Handover 
+
+
 """
 
 
