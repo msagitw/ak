@@ -44,21 +44,24 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Business Analyst / Product Owner (Agile Methdologies)"
+  title = "Business Analyst / Product Owner (Agile) [U.S. Government] 🇺🇸"
   company = "IBM Watson Health, Dublin, Ireland"
   company_url = ""
   location = "Dublin, Ireland"
   date_start = "2017-12-01"
   date_end = "2018-11-01"
-  description = """ **Policy Insights** - Saas based data analytics platform employing Natural Language Processing and Artificial 
-                intelligence via the Watson ML/AI Platform. This project was for Medicare/Medicaid (U.S Government). Responsibilties
-                include: 
+  description = """ **Policy Insights** - SaaS based data analytics platform employing Natural Language Processing and Artificial 
+                intelligence via the Watson ML/AI Platform. This project was for Medicare/Medicaid (U.S Government). 
+                Diverse and cross-geographic team. Management of the entire SDLC, the team included members of government staff 
+                developers and multiple organizations. Teams were based in the United States, Ireland & India. 
+
+Responsibilties:
 
   * Requirements Engineering
   * Process Mapping / Optomization / Engineering
   * Stakeholder Communication & Management
   * Writting User Stories / Product Roadmaps / Acceptance Criteria
-  * Algorithm Developmebt & Architecure Modelling
+  * Algorithm Development & Architecture Modelling
   """
 
 

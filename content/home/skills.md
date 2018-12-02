@@ -46,4 +46,9 @@ weight = 7
   icon_pack = "fas"
   name = "Startups"
 
+[[feature]]
+  icon = "trophy"
+  icon_pack = "fas"
+  name = "Product"
+
 +++
