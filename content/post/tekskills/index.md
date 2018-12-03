@@ -72,16 +72,19 @@ summary = ""
 
 ## User Stories / Product 
 
-1. GitHub [Intermediate] - User Stories Repository
-2. JIRA [Intermediate] - User Stories Repository
-3. [AHA](https://www.aha.io/) - Product Roadmaps 
+1. [GitHub](https://github.com/) [Intermediate] - User Stories Repository
+2. [GitLab](https://about.gitlab.com/) [Novice] - User Stories Repository
+3. [JIRA](https://www.atlassian.com/software/jira) [Intermediate] - User Stories Repository
+4. [AHA](https://www.aha.io/) - Product Roadmaps 
+5. [Netlify](https://www.netlify.com/) - This website is hosted and built on this service
 
 ## Wireframing 
 
-1. Balsamiq [Intermediate] - Windows / MacOs based wireframing tool
-2. Sketch [Novice] - MacOS Exclusive Wireframing Tool
-3. Figma [Intermediate] - Cloud based Wireframing Tool
-4. InVision [Intermediate] - Prototyping Tool
+1. [Balsamiq](https://balsamiq.com/) [Intermediate] - Windows / MacOs based wireframing tool
+2. [Sketch](https://www.sketchapp.com/) [Novice] - MacOS Exclusive Wireframing Tool
+3. [Figma](https://www.figma.com/) [Intermediate] - Cloud based Wireframing Tool
+4. [InVision](https://www.invisionapp.com/) [Intermediate] - Prototyping Tool
+5. [Axure](https://www.axure.com/) - Wireframing & Prototyping Tool 
 
 
 
