@@ -131,6 +131,10 @@ Responsibilities :
 
 Responsibilities :
 
+* Ontological database design 
+* Team leader 
+* Ontologies Interrogation with SPARQL
+* Process Mapping / Optomization
 
                     
 """
