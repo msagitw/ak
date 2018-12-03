@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Tech Skillz"]
+tags = ["Tech Skillz", "Process maps", "Wireframes", "User Stories", "Acceptance Criteria", "Product", "Roadmaps"]
 summary = ""
 
 # Projects (optional).
@@ -45,8 +45,15 @@ summary = ""
 
 1. Office - 2010, 2016, 265 (Word[Expert], Excel[Intermediate], Powerpoint[Expert], Access[Intermediate], Publisher[Intermediate])
 
-## Process Maps / ER Diagrams
+## Process Maps 
 
-1. Microsoft Visio 
+1. Microsoft Visio [Expert]
+2. [PlantUML](http://plantuml.com/) - Code Driven Diagramming tool [Intermediate]
+3. [GraphViz](http://www.graphviz.org/) - Via Plantuml - Code Driven Diagramming Tool [Intermediate]
+4. [Draw.io](https://www.draw.io/) - Cloud based free digramming tool [Expert]
+
+## Audio Video GFX
+
+1. 
 
 
