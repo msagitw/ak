@@ -37,7 +37,16 @@ summary = ""
 
 ## Operating Systems 
 
-1. Windows Based - Win 7, Win XP, Win 10 , Win Server
-2. Apple - Mac OS
-3. *Nix - Ubuntu, Kali  
+1. Windows Based - Win 7, Win XP, Win 10 , Win Server [Expert]
+2. Apple - Mac OS [Expert]
+3. *Nix - Ubuntu [Expert] , Kali [Intermediate] 
+
+## Productivity 
+
+1. Office - 2010, 2016, 265 (Word[Expert], Excel[Intermediate], Powerpoint[Expert], Access[Intermediate], Publisher[Intermediate])
+
+## Process Maps / ER Diagrams
+
+1. Microsoft Visio 
+
 
