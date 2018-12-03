@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Tech Skillz", "Process maps", "Wireframes", "User Stories", "Acceptance Criteria", "Product", "Roadmaps", "Statistics"]
-summary = ""
+summary = " "
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -84,7 +84,7 @@ summary = ""
 2. [Sketch](https://www.sketchapp.com/) [Novice] - MacOS Exclusive Wireframing Tool
 3. [Figma](https://www.figma.com/) [Intermediate] - Cloud based Wireframing Tool
 4. [InVision](https://www.invisionapp.com/) [Intermediate] - Prototyping Tool
-5. [Axure](https://www.axure.com/) - Wireframing & Prototyping Tool 
+5. [Axure](https://www.axure.com/) [Novice] - Wireframing & Prototyping Tool 
 
 
 
