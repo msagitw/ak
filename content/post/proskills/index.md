@@ -37,7 +37,16 @@ summary = "Description of professional skills mastered over the years"
 
 ## Professional Skills List
 
+1. Business Requirements Analysis
+2. Business Process Analysis
+3. Stakeholder Managment 
+4. Functional Requirement Analysis 
+5. Prototype Development
+6. Requiremments Gathering
+7. Minimum Viable Product Development
+8. Operations
+10. Team Lead
+11. Project Management
+12. Data Analysis / Analytics
 
-## Color Themes
-     
 
