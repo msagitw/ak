@@ -35,6 +35,24 @@ summary = ""
 
 +++
 
+## Audio Video GFX
+
+1. [Adobe Photoshop](https://www.adobe.com/in/products/photoshop.html) [Intermediate] - GFX
+2. [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html) [Intermediate] - GFX
+3. [Adobe Aftereffects](https://www.adobe.com/in/products/aftereffects.html) [Intermediate] -  GFX
+4. [Sony Soundforge](https://www.magix.com/in/music/sound-forge/) [Intermediate] - Audio
+5. [FL Studio](https://www.image-line.com/flstudio/) + VST's [Intermediate] - DAW (Digital Audio Workstation)
+6. Native Instruments - [Traktor](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/) [Novice] - DJ Software
+7. [Autodesk 3dsMax](https://www.autodesk.in/products/3ds-max/overview) [Novice] - 3d Modelling 
+8. [Autodesk Mays](https://www.autodesk.in/products/maya/overview) - 3d Modelling
+9. [Cinema4d](https://www.maxon.net/en/) - 3d Modelling
+
+## Data Science / Statistics 
+
+1. R via [R-Studio](https://www.rstudio.com/) [Intermediate] - Statistical Analysis 
+2. [SPSS](https://www.ibm.com/analytics/spss-statistics-software) [Intermediate] - Statistical Analysis 
+3. Python [Novice] - Data viz
+
 ## Operating Systems 
 
 1. Windows Based - Win 7, Win XP, Win 10 , Win Server [Expert]
@@ -52,26 +70,19 @@ summary = ""
 3. [GraphViz](http://www.graphviz.org/) - Via Plantuml - Code Driven Diagramming Tool [Intermediate]
 4. [Draw.io](https://www.draw.io/) - Cloud based free digramming tool [Expert]
 
-## Audio Video GFX
-
-1. Adobe Photoshop [Intermediate] - GFX
-2. Adobe Illustrator [Intermediate] - GFX
-3. Adobe Aftereffects [Intermediate] -  GFX
-4. Sony Soundforge [Intermediate] - Audio
-5. Fruitloops + VST's [Intermediate] - DAW (Digital Audio Workstation)
-6. Native Instruments Traktor [Novice] - DJ Software
-
-## Data Science / Statistics 
-
-1. R via R-Studio [Intermediate] - Statistical Analysis 
-2. SPSS [Intermediate] - Statistical Analysis 
-3. Python [Novice] - Data viz
-
 ## User Stories / Product 
 
 1. GitHub [Intermediate] - User Stories Repository
 2. JIRA [Intermediate] - User Stories Repository
 3. [AHA](https://www.aha.io/) - Product Roadmaps 
+
+## Wireframing 
+
+1. Balsamiq [Intermediate] - Windows / MacOs based wireframing tool
+2. Sketch [Novice] - MacOS Exclusive Wireframing Tool
+3. Figma [Intermediate] - Cloud based Wireframing Tool
+4. InVision [Intermediate] - Prototyping Tool
+
 
 
 
