@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Tech Skillz", "Process maps", "Wireframes", "User Stories", "Acceptance Criteria", "Product", "Roadmaps"]
+tags = ["Tech Skillz", "Process maps", "Wireframes", "User Stories", "Acceptance Criteria", "Product", "Roadmaps", "Statistics"]
 summary = ""
 
 # Projects (optional).
@@ -45,7 +45,7 @@ summary = ""
 
 1. Office - 2010, 2016, 265 (Word[Expert], Excel[Intermediate], Powerpoint[Expert], Access[Intermediate], Publisher[Intermediate])
 
-## Process Maps 
+## Process Maps / UML
 
 1. Microsoft Visio [Expert]
 2. [PlantUML](http://plantuml.com/) - Code Driven Diagramming tool [Intermediate]
@@ -54,6 +54,25 @@ summary = ""
 
 ## Audio Video GFX
 
-1. 
+1. Adobe Photoshop [Intermediate] - GFX
+2. Adobe Illustrator [Intermediate] - GFX
+3. Adobe Aftereffects [Intermediate] -  GFX
+4. Sony Soundforge [Intermediate] - Audio
+5. Fruitloops + VST's [Intermediate] - DAW (Digital Audio Workstation)
+6. Native Instruments Traktor [Novice] - DJ Software
+
+## Data Science / Statistics 
+
+1. R via R-Studio [Intermediate] - Statistical Analysis 
+2. SPSS [Intermediate] - Statistical Analysis 
+3. Python [Novice] - Data viz
+
+## User Stories / Product 
+
+1. GitHub [Intermediate] - User Stories Repository
+2. JIRA [Intermediate] - User Stories Repository
+3. [AHA](https://www.aha.io/) - Product Roadmaps 
+
+
 
 
