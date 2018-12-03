@@ -1,5 +1,5 @@
 +++
-title = "Professional Skills"
+title = "Tech Skillz"
 subtitle = ""
 
 date = 2016-04-20T00:00:00
@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Professional Skills"]
+tags = ["Tech Skillz"]
 summary = ""
 
 # Projects (optional).
@@ -35,18 +35,9 @@ summary = ""
 
 +++
 
-## Professional Skills List
+## Operating Systems 
 
-1. Business Requirements Analysis
-2. Business Process Analysis
-3. Stakeholder Managment 
-4. Functional Requirement Analysis 
-5. Prototype Development
-6. Requiremments Gathering
-7. Minimum Viable Product Development
-8. Operations
-10. Team Lead
-11. Project Management
-12. Data Analysis / Analytics
-
+1. Windows Based - Win 7, Win XP, Win 10 , Win Server
+2. Apple - Mac OS
+3. *Nix - Ubuntu, Kali  
 
