@@ -19,6 +19,9 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+# This is for Ireland IBM Watson Health Job
+
 [[experience]]
   title = "Business Analyst / Product Owner (Agile) [U.S. Government] 🇺🇸"
   company = "IBM Watson Health, Dublin, Ireland"
@@ -31,6 +34,7 @@ date_format = "January 2006"
                 Diverse and cross-geographic team. Management of the entire SDLC, the team included members of government staff 
                 developers and multiple organizations. Teams were based in the United States, Ireland & India. 
 
+
 Responsibilties:
 
   * R&D
@@ -40,6 +44,8 @@ Responsibilties:
   * Writting User Stories / Product Roadmaps / Acceptance Criteria
   * Algorithm Development & Architecture Modelling
   """
+
+# This is for the time in Dubai & Doha 
 
 [[experience]]
   title = "Business Analyst / Subject Matter Expert (Clinical Research Methodology) [Government of Qatar & U.A.E] "
@@ -66,9 +72,52 @@ Responsibilities :
  * Team Management / Lead 
  * Documentation - BRD, FSD, SRS
  * Project Kickoff / Handover 
+ * UI/UX 
 
 
 """
+
+# This is when you were the founder of the startup 
+
+[[experience]]
+  title = "Founder / CEO "
+  company = " [Tapiatric](https://www.google.ie/search?client=opera&q=tapiatric&sourceid=opera&ie=UTF-8&oe=UTF-8) - A.I In health care "
+  company_url = ""
+  location = "Dubai, United Arab Emirates"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """ Digital healthcare diagnostics startup focussing on the application of Artificial Intelligence Technologies
+                (Pattern Recognition & Heuristics) for faster more effetive diagnotics for complicated Medical Cases. Focussing on 
+                medical conditionin the G.C.C Market. 
+
+"""
+
+# This your experience managing your business. 
+
+[[experience]]
+  title = "Administrative Director"
+  company = " ALYAS Textile Trading (GCC & ASIA) Import/Export "
+  company_url = "https://alyasgarments.weebly.com"
+  location = "Dubai, United Arab Emirates"
+  date_start = "2012-01-01"
+  date_end = "2015-12-01"
+  description = """ International Import/Export of textiles and ready made garments across the GCC and Asian Regions, family business
+
+"""
+
+# This is your experience when ou were Malaysia Infusion Sols
+
+[[experience]]
+  title = "Medical Knowledge Engineer (Team Lead)"
+  company = "Government Linked Corporation - Technology Services Firm"
+  company_url = ""
+  location = "Kuala Lumpur, Malaysia"
+  date_start = "2008-01-01"
+  date_end = "2012-01-01"
+  description = """ **MIP - Medical Informatics Platform** - Team lead for development of Ontologi
+"""
+
+
 
 
 +++
