@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Education", "Blockchain", "Consulting", "Design Thinking", "Healthcare", "IoT", "Data Science", "Hadoop", "Big Data", "Project Management", "Risk Management", "Legal Studies", "Customer Service", "Psychology", "Information Technology", "Management", "Business Process Management", "Entrepreneurship"]
-summary = ""
+summary = " "
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
