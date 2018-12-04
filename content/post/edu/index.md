@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Education", "Blockchain", "Consulting", "Design Thinking", "Healthcare", "IoT", "Data Science", "Hadoop", "Big Data"]
+tags = ["Education", "Blockchain", "Consulting", "Design Thinking", "Healthcare", "IoT", "Data Science", "Hadoop", "Big Data", "Project Management", "Risk Management", "Legal Studies", "Customer Service", "Psychology", "Information Technology", "Management", "Business Process Management", "Entrepreneurship"]
 summary = ""
 
 # Projects (optional).
@@ -75,6 +75,17 @@ summary = ""
 12. Diploma Six Sigma
 13. Diploma Statistics 
 
+## 2011 
+
+**Masters in Clinical Research & Pharmacovigilance**, James Lind Institute, INDIA
+
+## 2008 
+
+**Bachelors (Honors) Biomedical Science (Clinical Research & Pharmacovigilance)**, International Islamic University Malaysia, Kuala Lumpur MALAYSIA.
+
+## 1998 
+
+**Diploma in Management Information Systems** - APTECH Computer Institute, Muscat, SULTANATE OF OMAN
 
 
 
