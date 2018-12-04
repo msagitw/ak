@@ -61,6 +61,19 @@ summary = ""
 
 ![](ade.png)
 
+1. Diploma Business Management & Entrepreneurship
+2. Diploma Business Process Management
+3. Diploma C Programming
+4. Diploma Customer Service 
+5. Diploma Information Technology Management 
+6. Diploma Legal Studies 
+7. Diploma Operations Management 
+8. Diploma Project Management 
+9. Diploma Psychology
+10. Diploma Quality Management
+11. Diploma Risk Management
+12. Diploma Six Sigma
+13. Diploma Statistics 
 
 
 
