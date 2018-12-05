@@ -26,7 +26,7 @@ slides = " "
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://youtu.be/Vi2Vgym6lbw"
+url_video = ""
 url_code = ""
 
 # Custom links (optional).

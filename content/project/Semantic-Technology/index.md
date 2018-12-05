@@ -54,6 +54,8 @@ The following are the screen shots of the application which was developed. This 
 
 ![](o2.jpg)
 
+{{< youtube id="7TbydKt4sSE" autoplay="true" >}}
+
 Presentation of the product at an expo in Kuala Lumpur, Malaysia 
 
 ![](o3.jpg)
