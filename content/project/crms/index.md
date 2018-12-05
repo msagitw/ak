@@ -46,9 +46,12 @@ url_code = ""
 
 I had the immense plesure of being involved in the development of a novel bespoke solution whose goal was for the transformation of clinical research and funds management system. 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/-OSwSJoNMmI?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+The following presentation is a brief description of the product and the process of developing it.
+
+{{< youtube id="-OSwSJoNMmI" autoplay="true" >}}
+
+
+
 
 
 
