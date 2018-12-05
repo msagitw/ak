@@ -91,7 +91,7 @@ Responsibilities :
                 medical conditionin the G.C.C Market. 
 
 - [Deck](https://issuu.com/sarfra/docs/tapiatric_investory_pitch_ppt) 
-- [Featured in Khaleej Times](https://www.khaleejtimes.com/business/technology/machine-vs-man-race-hots-up) 
+- [Featured in Khaleej Times](https://www.khaleejtimes.com/business/technology/machine-vs-man-race-hots-up) - Leading English Newspaper in Dubai, United Arab Emirates 
 
 """
 
