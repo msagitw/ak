@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Statistical Analysis"]
+tags = ["Statistical Analysis", "Patience Experience Times", "Emergency Department"]
 
 # Links (optional).
 url_pdf = ""
