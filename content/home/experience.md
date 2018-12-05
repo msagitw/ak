@@ -90,6 +90,9 @@ Responsibilities :
                 (Pattern Recognition & Heuristics) for faster more effetive diagnotics for complicated Medical Cases. Focussing on 
                 medical conditionin the G.C.C Market. 
 
+- [Deck](https://issuu.com/sarfra/docs/tapiatric_investory_pitch_ppt) 
+- [Featured in Khaleej Times](https://www.khaleejtimes.com/business/technology/machine-vs-man-race-hots-up) 
+
 """
 
 # This your experience managing your business. 
