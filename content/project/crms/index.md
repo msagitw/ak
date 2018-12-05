@@ -10,7 +10,7 @@ summary = "Transformation of manual Clinical Research Management"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Clinical Research", "Clinical", "Clinical Trials", "Clinical Data Management"]
+tags = ["Clinical Research", "Clinical", "Clinical Trials", "Clinical Data Management", "Clinical Trials Data", "Digital Health"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
