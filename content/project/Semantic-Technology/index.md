@@ -10,7 +10,7 @@ summary = "Ontologies in healthcare"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Semantics", "Ontologies", "Healthcare"]
+tags = ["Semantics", "Ontologies", "Healthcare", "Wearables", "Digital Diagnostics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,5 +44,14 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Medical Informatics Platform
+
+This project in which I as involved was for the development of Digital Diagnostic Algorithm that would be used for training junior physicians in the diagnosis of stat cases. I was the lead in the development of the ontological databases. The following were the scope of the disease domains for which, I had developed the ontologies. 
+
+![](o1.png)
+
+The following are the screen shots of the application which was developed. This was primarily for wearables using the palm os
+
+![](o2.jpg)
 
 
