@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-I had the immense plesure of being involved in the development of a novel bespoke solution whose goal was for the transformation of clinical research and funds management system. 
+I had the immense plesure of being involved in a government project whose goal was for the digitization of the clinical trial process. 
 
 The following presentation is a brief description of the product and the process of developing it.
 
