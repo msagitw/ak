@@ -79,4 +79,7 @@ math = true
   focal_point = ""
 +++
 
+This project was also presented at **Emirates Society of Emergency Medicine** on 7 - 10 December 2016 in Scientific Conference 2016 Dubai, United Arab Emirates. 
+
+![](es.jpg)
 
