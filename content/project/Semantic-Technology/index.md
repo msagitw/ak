@@ -46,7 +46,7 @@ url_code = ""
 
 ## Medical Informatics Platform
 
-This project in which I as involved was for the development of Digital Diagnostic Algorithm that would be used for training junior physicians in the diagnosis of stat cases. I was the lead in the development of the ontological databases. The following were the scope of the disease domains for which, I had developed the ontologies. 
+This project in which I was involved was for the development of a *Digital Diagnostic Algorithm* that would be used for training junior physicians in the diagnosis of stat cases. I was the lead in the development of the ontological databases. The following were the scope of the disease domains for which, I had developed the ontologies. 
 
 ![](o1.png)
 
