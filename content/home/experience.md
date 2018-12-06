@@ -60,7 +60,7 @@ Responsibilties:
 
   [**SmartHASD**](https://www.dha.gov.ae/en/DHANews/pages/dhanews1619533207-20-03-2016.aspx) - Online health insurance analytics platform. Bespoke Custom Solution for the Dubai Health Authority, Government of Dubai
 
-Both the projects were cross geographic with involvement of private and public insitutions, involving large cross geographic teams.
+Both the projects were cross geographic with involvement of private and public institutions, involving large cross geographic teams.
 
 Responsibilities :
 
@@ -81,14 +81,14 @@ Responsibilities :
 
 [[experience]]
   title = "Founder / CEO "
-  company = " [Tapiatric](https://www.google.ie/search?client=opera&q=tapiatric&sourceid=opera&ie=UTF-8&oe=UTF-8) - A.I In health care "
+  company = " [Tapiatric](https://www.google.ie/search?client=opera&q=tapiatric&sourceid=opera&ie=UTF-8&oe=UTF-8) - A.I. In Health Care "
   company_url = ""
   location = "Dubai, United Arab Emirates"
   date_start = "2015-01-01"
   date_end = ""
   description = """ Digital healthcare diagnostics startup focussing on the application of Artificial Intelligence Technologies
-                (Pattern Recognition & Heuristics) for faster more effetive diagnotics for complicated Medical Cases. Focussing on 
-                medical conditionin the G.C.C Market. 
+                (Pattern Recognition & Heuristics) for faster more effetive diagnostics for complicated Medical Cases. Focussing on 
+                diseases in the G.C.C Region. 
 
 - [Deck](https://issuu.com/sarfra/docs/tapiatric_investory_pitch_ppt) 
 - [Featured in Khaleej Times](https://www.khaleejtimes.com/business/technology/machine-vs-man-race-hots-up) - Leading English Newspaper in Dubai, United Arab Emirates 
