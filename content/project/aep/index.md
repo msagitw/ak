@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Audio Experiements"
+title = "Audio Experiments"
 
 # Date this page was created.
 date = 2011-01-01T00:00:00
