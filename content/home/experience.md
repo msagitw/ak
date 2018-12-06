@@ -127,10 +127,9 @@ Responsibilities :
   date_start = "2008-01-01"
   date_end = "2012-01-01"
   description = """ **MIP - Medical Informatics Platform** - Digital diagnostic platfrom employing a branch of artificial itelligence 
-                    technologies (Sematic Web) to enable accruate and fast diagnostics for stat cases. This project was for MIMOS which
+                    technologies (Sematic Web) to enable accurate and fast diagnostics for stat cases. This project was for MIMOS which
                     is the government research arm for the MOSTI - Ministry of Science and Technology Malaysia. The software application 
-                    was designed to run on the Plam OS ofr PDA's. I was responsible for the development of the Semantic Databases for 
-                    tropical diseases using the OWL Language.
+                    was designed to run on the Plam OS for PDA's. I was responsible for the development of the Disease Domain Ontologies
 
 Responsibilities :
 
@@ -138,6 +137,9 @@ Responsibilities :
 * Team leader 
 * Ontologies Interrogation with SPARQL
 * Process Mapping / Optomization
+* Demo of MVP to stakeholders
+* KeyNote Speaker
+* Conference / Seminar Presentations
 
                     
 """
