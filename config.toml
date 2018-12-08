@@ -311,12 +311,17 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
+[[menu.main]]
+  name = "Services"
+  url = "#teaching"
+  weight = 5
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
   url = "files/msa.pdf"
-  weight = 7
+  weight = 8
 
 # Search.
 [params.search]

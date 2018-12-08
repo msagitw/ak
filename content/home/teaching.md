@@ -3,11 +3,11 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Services"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,13 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+#### I am available for consulting gigs. Please contact me via email for a discussion of your needs, note for anything just send me an email dont be shy :) 
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+Service | Description
+:---: | ---: 
+**Bio-Statistician** | `Note our engagement will be based on the size of your experiment and the amount of data under investigation`
+**Startup-Consulting** | `As an ex startup founder I understand the chaos associated with translating an idea in your mind into something a developer can actually build` 
+**Contract Work** | `Contract business analysis, product ownership duties. REMOTE WORK ONLY + ADVANCE PAYMENT MANDATORY`
+**R&D** | `Contract R&D - REMOTE WORK ONLY`
+
+
