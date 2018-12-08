@@ -48,7 +48,7 @@ Responsibilties:
 # This is for the time in Dubai & Doha 
 
 [[experience]]
-  title = "Business Analyst / Subject Matter Expert (Clinical Research Methodology) [Government of Qatar & U.A.E] "
+  title = "Project Manager / Business Analyst / Subject Matter Expert (Clinical Research Methodology) [Government of Qatar & U.A.E] "
   company = "Government Consulting Technology Services Firm"
   company_url = ""
   location = "Qatar & United Arab Emirates"
