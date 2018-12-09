@@ -99,7 +99,7 @@ Responsibilities :
 
 [[experience]]
   title = "Administrative Director"
-  company = " ALYAS Textile Trading (GCC & ASIA) Import/Export "
+  company = " ALYAS International Trading Comapny (GCC & ASIA) Import/Export "
   company_url = "https://alyasgarments.weebly.com"
   location = "Dubai, United Arab Emirates"
   date_start = "2012-01-01"
