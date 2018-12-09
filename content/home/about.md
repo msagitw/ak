@@ -34,6 +34,11 @@ weight = 5
   year = 2017
 
 [[education.courses]]
+  course = "Multiple Diplomas"
+  institution = "Alison, Ireland"
+  year = 2015
+
+[[education.courses]]
   course = "MSc in Clinical Research & Pharmacovigilance"
   institution = "INDIA"
   year = 2011
