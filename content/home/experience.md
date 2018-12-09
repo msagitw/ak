@@ -104,7 +104,7 @@ Responsibilities :
   location = "Dubai, United Arab Emirates"
   date_start = "2012-01-01"
   date_end = "2015-12-01"
-  description = """ International Import/Export of textiles and ready made garments across the GCC and Asian Regions, family business
+  description = """ International Comapny based on Import/Export and consultancy of textiles across the GCC and ASEAN regions.
 
 Responsibilities :
 
