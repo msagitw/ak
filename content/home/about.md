@@ -53,4 +53,12 @@ weight = 5
 
 # Biography
 
-Ex startup founder from the digital healthcare technologies background, who has successfully been responsible for the design and development of large scale high impact government solutions employing cutting edge technologies resulting in policy changes. These solutions have been for the 1)American Government (Medicare / Medicaid) 2)Ministry of Health - Government of Dubai, United Arab Emirates 3)Ministry of Health - Doha, QATAR 4)Ministry of Science and Technology - Kuala Lumpur, Malaysia. 
+Ex startup founder from the digital healthcare technologies background, who has successfully been responsible for the design and development of large scale high impact government solutions employing cutting edge technologies resulting in policy changes. These solutions have been for the ... 
+
+1)American Government (Medicare / Medicaid) 
+
+2)Ministry of Health - Government of Dubai, United Arab Emirates
+ 
+3)Ministry of Health - Doha, QATAR 
+
+4)Ministry of Science and Technology - Kuala Lumpur, Malaysia. 
