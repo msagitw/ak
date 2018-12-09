@@ -19,9 +19,11 @@ weight = 60
 
 Service | Description
 :---: | ---: 
-**Bio-Statistician** | `Note our engagement will be based on the size of your experiment and the amount of data under investigation`
-**Startup-Consulting** | `As an ex startup founder I understand the chaos associated with translating an idea in your mind into something a developer can actually build` 
+**Bio-Statistician** | `Note our engagement will be based on the size of your experiment and the amount of data under investigation - The data shall he analyzed using R primarily and if required python will be used. You can see sample of my analysis here - https://rpubs.com/razk0rp , REMOTE WORK ONLY + ADVANCE PAYMENT MANDATORY`
+**Startup-Consulting** | `As an ex startup founder I understand the chaos associated with translating an idea in your mind into something a developer can actually build, I am willing to be a part of your endeavor in exchange for equity` 
 **Contract Work** | `Contract business analysis, product ownership duties. REMOTE WORK ONLY + ADVANCE PAYMENT MANDATORY`
-**R&D** | `Contract R&D - REMOTE WORK ONLY`
+**R&D** | `Contract R&D - REMOTE WORK ONLY + ADVANCE PAYMENT MANDATORY`
+**Website Design** | `I can design websites such as this one for you or your organization, only for personal + sme's REMOTE WORK ONLY + ADVANCE PAYMENT MANDATORY`
+**Marketing Comms** | `Primarily for digital channels, REMOTE WORK ONLY + ADAVANCE PAYMENT MANDATORY`
 
 
