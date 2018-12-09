@@ -25,27 +25,27 @@ weight = 5
 
 [[education.courses]]
   course = "BlockChain Consulting"
-  #institution = "IBM, Watson Health, Ireland"
+  institution = "IBM, Watson Health, Ireland"
   year = 2018
 
 [[education.courses]]
   course = "Cloud Analytics"
-  #institution = "IBM, Watson Health, Ireland"
+  institution = "Ireland"
   year = 2017
 
 [[education.courses]]
   course = "MSc in Clinical Research & Pharmacovigilance"
-  #institution = "INDIA"
+  institution = "INDIA"
   year = 2011
 
 [[education.courses]]
   course = "BSc(Honors) in Biomedical Science (Clinical & Pharma) Research"
-  #institution = "Malaysia"
+  institution = "Malaysia"
   year = 2008
 
 [[education.courses]]
   course = "Diploma in Management Information Systems"
-  #institution = "Oman"
+  institution = "Oman"
   year = 1998
 
  
@@ -55,10 +55,10 @@ weight = 5
 
 Ex startup founder from the digital healthcare technologies background, who has successfully been responsible for the design and development of large scale high impact government solutions employing cutting edge technologies resulting in policy changes. These solutions have been for the ... 
 
-1)American Government (Medicare / Medicaid) 
+1. American Government (Medicare / Medicaid) 
 
-2)Ministry of Health - Government of Dubai, United Arab Emirates
+2. Ministry of Health - Government of Dubai, United Arab Emirates
  
-3)Ministry of Health - Doha, QATAR 
+3. Ministry of Health - Doha, QATAR 
 
-4)Ministry of Science and Technology - Kuala Lumpur, Malaysia. 
+4. Ministry of Science and Technology - Kuala Lumpur, Malaysia. 
