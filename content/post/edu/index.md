@@ -35,6 +35,13 @@ summary = " "
 
 +++
 
+## 2020
+**I. SPLUNK CERTIFICATIONS - [Verification Link](https://www.youracclaim.com/users/sarfraz-ahmed.9e8b62fc/badges)
+
+1. [Splunk Core Certified User](https://www.youracclaim.com/badges/f561e033-8e2e-4cab-a534-248f3b46f50b)
+2. [Splunk Core Certified Power User](https://www.youracclaim.com/badges/399be717-8ef4-4b74-aaad-9beaf1823b2b)
+3. [Splunk Enterprise Certified Admin](https://www.youracclaim.com/badges/7d436691-096d-4181-92bc-b31d7a9f3ebe)
+
 ## 2017 - 2018
 
 **I. IBM IRELAND CERTIFICATION - [Verification Link](https://www.youracclaim.com/user/mohamed-sarfraz-ahmed)**
